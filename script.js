@@ -1,0 +1,1 @@
+document.body.indexHTML = '<h1>Hello</h1>'
